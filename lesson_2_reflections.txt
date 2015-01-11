@@ -1,0 +1,8 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+R: Initialising repositories set up a folder so that git can interact with it. Without it Git will just treat it like an ordinary folder of files.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+R: The staging area prepares files for a single commit. This allows you to control what changes/files actually needs to be in a single commit to the repository.
+
